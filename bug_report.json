@@ -1,1 +1,12 @@
-
+{
+  "Title":"Onboarding is missing after deleting data and reinstalling the application",
+  "Severity":"Minor",
+  "Priority":"Medium",
+  "Precondition":"The application is installed and closed",
+  "STR":["1. Delete application data",
+           "2. Uninstall the application from the device",
+          "3. Install the app",
+          "4. Launch the app"],
+  "Expected Result":"Switching to Onboarding",
+  "Actual Result":"Switching to Learning Section"
+}
